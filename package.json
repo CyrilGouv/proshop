@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilGouv/proshop.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyrilGouv/proshop/issues"
+  },
+  "homepage": "https://github.com/CyrilGouv/proshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
